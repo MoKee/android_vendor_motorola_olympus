@@ -91,7 +91,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/olympus/proprietary/lib/libbattd.so:system/lib/libbattd.so \
     vendor/motorola/olympus/proprietary/bin/charge_only_mode:system/bin/charge_only_mode \
     vendor/motorola/olympus/proprietary/lib/libmoto_ril.so:system/lib/libmoto_ril.so \
-    vendor/motorola/olympus/proprietary/lib/libmoto_mdmctrl.so:system/lib/libmoto_mdmctrl.so \
     vendor/motorola/olympus/proprietary/lib/libpppd_plugin-ril.so:system/lib/libpppd_plugin-ril.so \
     vendor/motorola/olympus/proprietary/lib/librds_util.so:system/lib/librds_util.so \
     vendor/motorola/olympus/proprietary/lib/libril_rds.so:system/lib/libril_rds.so \
@@ -111,8 +110,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/olympus/proprietary/lib/libam2server.so:system/lib/libam2server.so \
     vendor/motorola/olympus/proprietary/lib/libnvcpud.so:system/lib/libnvcpud.so \
     vendor/motorola/olympus/proprietary/lib/libnvcpud_client.so:system/lib/libnvcpud_client.so \
-    vendor/motorola/olympus/proprietary/bin/glgps_nvidiaTegra2android:system/bin/glgps_nvidiaTegra2android \
-    vendor/motorola/olympus/proprietary/etc/gps/gpsconfig.xml:system/etc/gps/gpsconfig.xml \
     vendor/motorola/olympus/proprietary/bin/tegrastats:system/proprietary/bin/tegrastats \
     vendor/motorola/olympus/proprietary/lib/hw/audio.a2dp.default.so:system/proprietary/lib/hw/audio.a2dp.default.so \
     vendor/motorola/olympus/proprietary/lib/hw/gralloc.default.so:system/proprietary/lib/hw/gralloc.default.so \
